@@ -1,4 +1,5 @@
-# React + Vite
+# React じゃんけん　おみくじ　やることリスト
+講義の復習を兼ねて、じゃんけんの結果が蓄積される機能を意識して、やることリストが追加できるようにした。
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
